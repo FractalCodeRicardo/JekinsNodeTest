@@ -1,0 +1,20 @@
+{
+  "name": "jenkin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FractalCodeRicardo/JekinsNodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FractalCodeRicardo/JekinsNodeTest/issues"
+  },
+  "homepage": "https://github.com/FractalCodeRicardo/JekinsNodeTest#readme"
+}
